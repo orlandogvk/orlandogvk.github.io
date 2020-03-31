@@ -1,0 +1,17 @@
+.fondo{
+    margin-top: 10px;
+    background-color: rgb(216, 216, 216);
+    text-align: center;
+}
+
+.foto{
+    margin-top: 20px;
+}
+
+.foto.img-thumbnail{
+    max-width: 50%;
+}
+
+.socialnet{
+    border-bottom: 10px;
+}

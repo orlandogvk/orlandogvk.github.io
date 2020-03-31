@@ -1,0 +1,25 @@
+.hard-skills{
+    display:flex;
+    flex-flow:column nowrap;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+img.card-img-top{
+    height:45%;
+}
+
+div.card-title.h5{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.btn{
+    margin-top: 20px;
+}
+

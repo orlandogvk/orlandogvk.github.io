@@ -1,0 +1,32 @@
+.fondoslider{
+    margin-top: 10px;
+}
+
+img.d-block-w-100{
+    height: 10%;
+}
+
+
+.carousel-caption>.cvlink{
+  border: 1px solid white;
+  border-radius: 5px;
+  width: 100px;
+  margin:0 auto;
+  padding:5px;
+  transition: all .5s;
+}
+
+.cvlink:hover{
+    border: 1px solid gray;
+}
+
+.cvlink>a{
+    color:white;
+    text-decoration: none;
+    transition: all .5s;
+}
+
+.cvlink>a:hover{
+    color: gray;
+}
+
